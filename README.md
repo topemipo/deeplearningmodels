@@ -13,7 +13,7 @@ The model was compiled using the Adam optimizer, binary crossentropy as the loss
 </p>
 
 <p>
-The code is in the <code>ann.ipynb<code> file
+The code is in the <code>ann.ipynb</code> file
 </p>
 
 ### **Convolutional Neural Network**
@@ -26,7 +26,7 @@ The model was compiled using the Adam optimizer, categorical crossentropy as the
 </p>
 
 <p>
-The code is in the <code>cnn.ipynb<code> file and the model is saved in the <code>saved_cnnmodel.ipynb<code> file
+The code is in the <code>cnn.ipynb</code>file and the model is saved in the <code>saved_cnnmodel.ipynb</code>file
 </p>
 
 ### **Recurrent Neural Network**
@@ -42,7 +42,7 @@ The data was preprocessed by normalizing the values to improve model performance
 The model was compiled using the Adam optimizer, mean squared error as the loss function, and no additional metrics. Training was conducted over 5 epochs with a batch size of 64.
 </p>
 
-The code is in the <code>rnn.ipynb<code> file 
+The code is in the <code>rnn.ipynb</code> file 
 
 
 
