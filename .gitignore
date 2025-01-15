@@ -1,0 +1,18 @@
+# Ignore virtual environment directories
+.venv/
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+#ignore large files
+flower_cnn_model.keras
+flower_photos.tgz
+flower_photos/
+
+
+
