@@ -12,6 +12,10 @@ This model was used for a simple binary classification problem with two features
 The model was compiled using the Adam optimizer, binary crossentropy as the loss function, and accuracy as the evaluation metric. Training was conducted over 200 epochs with a batch size of 50.
 </p>
 
+<p>
+The code is in the <code>ann.ipynb<code> file
+</p>
+
 ### **Convolutional Neural Network**
 
 <p>
@@ -19,6 +23,10 @@ This Convolutional Neural Network (CNN) model was trained with images of five ty
 
 <p>
 The model was compiled using the Adam optimizer, categorical crossentropy as the loss function, and accuracy as the evaluation metric. Training was conducted over 20 epochs with a batch size of 32.
+</p>
+
+<p>
+The code is in the <code>cnn.ipynb<code> file and the model is saved in the <code>saved_cnnmodel.ipynb<code> file
 </p>
 
 ### **Recurrent Neural Network**
@@ -33,6 +41,8 @@ The data was preprocessed by normalizing the values to improve model performance
 <p>
 The model was compiled using the Adam optimizer, mean squared error as the loss function, and no additional metrics. Training was conducted over 5 epochs with a batch size of 64.
 </p>
+
+The code is in the <code>rnn.ipynb<code> file 
 
 
 
