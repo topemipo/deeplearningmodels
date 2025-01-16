@@ -10,9 +10,9 @@ __pycache__/
 .DS_Store
 
 #ignore large files
-flower_cnn_model.keras
-flower_photos.tgz
-flower_photos/
+flower_cnn_model.keras 
+flower_photos.tgz 
+flower_photos/ 
 
 
 
